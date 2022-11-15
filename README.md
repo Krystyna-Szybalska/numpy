@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 <img src="/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
