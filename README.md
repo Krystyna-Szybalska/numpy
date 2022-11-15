@@ -2,8 +2,6 @@
 <img src="/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
-CHANGE TO SEE GIT CHANGES
-
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
 https://numfocus.org)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
